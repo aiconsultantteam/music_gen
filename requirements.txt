@@ -1,3 +1,4 @@
 xformers
 audiocraft
 IPython
+torch

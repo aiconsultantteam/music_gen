@@ -1,4 +1,4 @@
 xformers
 audiocraft
 IPython
-torch
+torchvision

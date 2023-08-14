@@ -6,7 +6,7 @@ import torchaudio
 import os
 
 # Define the output directory
-output_dir = r'C:\Users\thanh\Work\Projects\AudioCraft\output'
+output_dir = r'./'
 
 model = musicgen.MusicGen.get_pretrained('medium', device='cuda')
 model.set_generation_params(duration=30)
